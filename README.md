@@ -1,6 +1,6 @@
 # Hi there, I'm Marcos Grossi 👋
 
-<img src="https://github.com/MarcosGrossi/MarcosGrossi/blob/main/my_picture.JPG?raw=true" alt="Profile Picture" width="150"/>
+<img src="https://github.com/MarcosGrossi/MarcosGrossi/blob/main/my_picture_circular.png?raw=true" alt="Profile Picture" width="150"/>
 
 ## About
 
