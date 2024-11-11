@@ -1,6 +1,10 @@
 # Hi there, I'm Marcos Grossi 👋
 
-![Profile Picture](https://github.com/MarcosGrossi/MarcosGrossi/blob/main/my_picture.JPG?raw=true)
+<img src="https://github.com/MarcosGrossi/MarcosGrossi/blob/main/my_picture.JPG?raw=true" alt="Profile Picture" width="150"/>
+
+## About
+
+I am an **econometrician** currently pursuing a **Master's in Economics** at **Simon Fraser University**. I have a strong passion for **financial modeling** and **macroeconomic research**, with most of my portfolios centered around these areas. As a **Python enthusiast**, I leverage Python alongside **Excel** and **R** to analyze complex datasets and develop robust financial models. I thrive in collaborative team environments, where I enjoy working with others to solve intricate problems and drive meaningful insights.
 
 ## 🔭 Current Project
 
