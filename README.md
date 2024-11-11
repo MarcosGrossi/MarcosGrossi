@@ -23,3 +23,7 @@ A comprehensive data analysis project implementing the **Capital Asset Pricing M
 
 ## 📈 GitHub Stats
 ![MarcosGrossi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosGrossi&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcosgrossi/)
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mvy@.sfu.ca)
