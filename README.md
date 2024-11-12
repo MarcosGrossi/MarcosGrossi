@@ -9,7 +9,10 @@ I am an **econometrician** currently pursuing a **Master's in Economics** at **S
 ## 🔭 Current Project
 
 ### [CAPM-Fama-French](https://github.com/MarcosGrossi/CAPM-Fama-French)
-A comprehensive data analysis project implementing the **Capital Asset Pricing Model (CAPM)** using **Fama-French** financial data. This project explores the relationship between portfolio returns and market factors to assess asset pricing models.
+A comprehensive data analysis project implementing the **Capital Asset Pricing Model (CAPM)** using **Fama-French** financial data. 
+
+### [Efficient-Frontier-and-CML-with-2-stocks](https://github.com/MarcosGrossi/Efficient-Frontier-and-CML-with-2-stocks)
+Graphs the efficient frontier and CML using two arbitrary stocks to illustrate optimal risk-return trade-offs.
 
 ## 🌱 Skills
 
