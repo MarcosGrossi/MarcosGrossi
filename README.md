@@ -6,7 +6,7 @@
 
 I am an **econometrician** currently pursuing a **Master's in Economics** at **Simon Fraser University**. I have a strong passion for **financial modeling** and **macroeconomic research**, with most of my portfolios centered around these areas. As a **Python enthusiast**, I leverage Python alongside **Excel** and **R** to analyze complex datasets and develop robust financial models. I thrive in collaborative team environments, where I enjoy working with others to solve intricate problems and drive meaningful insights.
 
-## 🔭 Current Project
+## 🔭 Current Projects
 
 ### [CAPM-Fama-French](https://github.com/MarcosGrossi/CAPM-Fama-French)
 A comprehensive data analysis project implementing the **Capital Asset Pricing Model (CAPM)** using **Fama-French** financial data. 
