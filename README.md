@@ -14,6 +14,9 @@ A comprehensive data analysis project implementing the **Capital Asset Pricing M
 ### [Efficient-Frontier-and-CML-with-2-stocks](https://github.com/MarcosGrossi/Efficient-Frontier-and-CML-with-2-stocks)
 Graphs the **Efficient Frontier** and **Capital Market Line (CML)** using two arbitrary stocks to illustrate optimal risk-return trade-offs.
 
+### Black-Scholes with Monte Carlo Simulation
+A project that uses the Black-Scholes model with Monte Carlo simulation to determine the price of a call option.
+
 ## 🌱 Skills
 
 ### Languages
