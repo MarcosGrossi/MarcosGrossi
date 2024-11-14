@@ -15,7 +15,7 @@ A comprehensive data analysis project implementing the **Capital Asset Pricing M
 Graphs the **Efficient Frontier** and **Capital Market Line (CML)** using two arbitrary stocks to illustrate optimal risk-return trade-offs.
 
 ### [Black-Scholes with Monte Carlo Simulation](https://github.com/MarcosGrossi/Black-Scholes-with-Monte-Carlo-Simulation)
-A project that uses the Black-Scholes model with Monte Carlo simulation to determine the price of a call option.
+A project that uses the **Black-Scholes model** with **Monte Carlo simulation** to determine the price of a call option.
 
 ## 🌱 Skills
 
