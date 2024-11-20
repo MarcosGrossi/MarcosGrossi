@@ -17,6 +17,9 @@ Graphs the **Efficient Frontier** and **Capital Market Line (CML)** using two ar
 ### [Black-Scholes with Monte Carlo Simulation](https://github.com/MarcosGrossi/Black-Scholes-with-Monte-Carlo-Simulation)
 A project that uses the **Black-Scholes model** with **Monte Carlo simulation** to determine the price of a call option.
 
+### [Calculating Sharpe Ratio and Graphing Maximum Drawdown](https://github.com/MarcosGrossi/Calculating_Sharpe_Ratio_and_Graphing_Max_Drawdown)
+Financial analysis of a stock by calculating **cumulative returns**, **Sharpe ratio**, and **drawdown**.
+
 ## 🌱 Skills
 
 ### Languages
