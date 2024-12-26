@@ -8,6 +8,9 @@ I am an **econometrician** currently pursuing a **Master's in Economics** at **S
 
 ## 🔭 Current Projects
 
+### [SDF-Analysis-with-Hansen-Jagannathan-Bound](https://github.com/MarcosGrossi/SDF-Analysis-with-Hansen-Jagannathan-Bound)
+Analyzes the **Hansen-Jagannathan Bound** (HJ Bound) against **Stochastic Discount Factors** (SDFs) derived from **CRRA** preferences. 
+
 ### [CAPM-Fama-French](https://github.com/MarcosGrossi/CAPM-Fama-French)
 A comprehensive data analysis project implementing the **Capital Asset Pricing Model (CAPM)** using **Fama-French** financial data. 
 
