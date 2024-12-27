@@ -8,6 +8,9 @@ I am an **econometrician** currently pursuing a **Master's in Economics** at **S
 
 ## 🔭 Current Projects
 
+### [Modeling-Equity-Premium-with-Two-State-and-Three-State-Markov-Chains](https://github.com/MarcosGrossi/Modeling-Equity-Premium-with-Two-State-and-Three-State-Markov-Chains)
+Models the equity premium with two- and three-state Markov chains, including rare disasters. Calibrates transitions and solves Euler equations using empirical data.
+
 ### [SDF-Analysis-with-Hansen-Jagannathan-Bound](https://github.com/MarcosGrossi/SDF-Analysis-with-Hansen-Jagannathan-Bound)
 Analyzes the **Hansen-Jagannathan Bound** (HJ Bound) against **Stochastic Discount Factors** (SDFs) derived from **CRRA** preferences. 
 
