@@ -8,7 +8,7 @@ I am an **econometrician** currently pursuing a **Master's in Economics** at **S
 
 ## 🔭 Current Projects
 
-### [Stacked-Difference-in-Differences-in-Python](https://github.com/MarcosGrossi/Stacked-Difference-in-Differences)
+### [Stacked-Difference-in-Differences-in-Python](https://github.com/MarcosGrossi/Stacked-Difference-in-Differences-in-Python)
 Identifies the causal impact of a treatment rolled out at different times across groups.
 
 ### [Price-Modeling-under-Two-State-and-Three-State-Markov-Chains](https://github.com/MarcosGrossi/Price-Modeling-under-Two-State-and-Three-State-Markov-Chains)
