@@ -8,19 +8,19 @@ I am an **econometrician** currently pursuing a **Master's in Economics** at **S
 
 ## 🔭 Current Projects
 
-### [Stacked-Difference-in-Differences-in-Python](https://github.com/MarcosGrossi/Stacked-Difference-in-Differences-in-Python)
+### [Stacked-Difference in Differences in Python](https://github.com/MarcosGrossi/Stacked-Difference-in-Differences-in-Python)
 Identifies the causal impact of a treatment rolled out at different times across groups.
 
-### [Price-Modeling-under-Two-State-and-Three-State-Markov-Chains](https://github.com/MarcosGrossi/Price-Modeling-under-Two-State-and-Three-State-Markov-Chains)
+### [Price Modeling under Two State and-Three State Markov Chains](https://github.com/MarcosGrossi/Price-Modeling-under-Two-State-and-Three-State-Markov-Chains)
 Models the equity premium with two- and three-state Markov chains, including rare disasters. Calibrates transitions and solves Euler equations using empirical data.
 
-### [SDF-Analysis-with-Hansen-Jagannathan-Bound](https://github.com/MarcosGrossi/SDF-Analysis-with-Hansen-Jagannathan-Bound)
+### [SDF Analysis with Hansen Jagannathan Bound](https://github.com/MarcosGrossi/SDF-Analysis-with-Hansen-Jagannathan-Bound)
 Analyzes the **Hansen-Jagannathan Bound** (HJ Bound) against **Stochastic Discount Factors** (SDFs) derived from **CRRA** preferences. 
 
-### [CAPM-Fama-French](https://github.com/MarcosGrossi/CAPM-Fama-French)
+### [CAPM Fama-French](https://github.com/MarcosGrossi/CAPM-Fama-French)
 A comprehensive data analysis project implementing the **Capital Asset Pricing Model (CAPM)** using **Fama-French** financial data. 
 
-### [Efficient-Frontier-and-CML-with-2-stocks](https://github.com/MarcosGrossi/Efficient-Frontier-and-CML-with-2-stocks)
+### [Efficient Frontier and CML with 2 stocks](https://github.com/MarcosGrossi/Efficient-Frontier-and-CML-with-2-stocks)
 Graphs the **Efficient Frontier** and **Capital Market Line (CML)** using two arbitrary stocks to illustrate optimal risk-return trade-offs.
 
 ### [Black-Scholes with Monte Carlo Simulation](https://github.com/MarcosGrossi/Black-Scholes-with-Monte-Carlo-Simulation)
