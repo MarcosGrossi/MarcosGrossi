@@ -11,7 +11,7 @@ I am an **econometrician** currently pursuing a **Master's in Economics** at **S
 ### [Stacked Difference-in-Differences in Python](https://github.com/MarcosGrossi/Stacked-Difference-in-Differences-in-Python)
 Identifies the causal impact of a treatment rolled out at different times across groups.
 
-### [Price Modeling under Two State and-Three State Markov Chains](https://github.com/MarcosGrossi/Price-Modeling-under-Two-State-and-Three-State-Markov-Chains)
+### [Price Modeling under Two State and Three State Markov Chains](https://github.com/MarcosGrossi/Price-Modeling-under-Two-State-and-Three-State-Markov-Chains)
 Models the equity premium with two- and three-state Markov chains, including rare disasters. Calibrates transitions and solves Euler equations using empirical data.
 
 ### [SDF Analysis with Hansen Jagannathan Bound](https://github.com/MarcosGrossi/SDF-Analysis-with-Hansen-Jagannathan-Bound)
