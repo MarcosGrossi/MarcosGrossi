@@ -8,6 +8,9 @@ I am an **econometrician** currently pursuing a **Master's in Economics** at **S
 
 ## 🔭 Current Projects
 
+### [Jump-Diffusion Dynamics in Oil-Sector Equity Options](https://github.com/MarcosGrossi/Jump-Diffusion-Dynamics-in-Oil-Sector-Equity-Options)
+Evaluates the viability of the jump-diffusion options pricing model for explaining the implied-volatility puzzle in oil-sector equity options.
+
 ### [Stacked Difference-in-Differences in Python](https://github.com/MarcosGrossi/Stacked-Difference-in-Differences-in-Python)
 Identifies the causal impact of a treatment rolled out at different times across groups.
 
